@@ -1,0 +1,6 @@
+# Settings for EasyChairScrape
+
+COOKIES_PICKLE_FILE: cookies.pkl
+LOGIN_URL: "https://easychair.org/account/signin"
+CONFERENCE_INDEX_URL: "https://easychair.org/conferences/submissions"
+SUBMISSION_URL: "https://easychair.org/conferences/submission_view"

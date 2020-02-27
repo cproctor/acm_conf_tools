@@ -1,0 +1,6 @@
+secrets.yaml
+*.swp
+*.swp
+__pycache__/*
+env/*
+cookies.pkl
